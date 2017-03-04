@@ -14,9 +14,12 @@ input{
 	font-family: 'Josefin Sans', sans-serif;
 	margin: 2% 70% 0 2%;
 	color: white;
+	padding-right: 10%;
+
 }
 
 .background{
 	background: rgba(45, 45, 45, 0.7);
 	margin: 0 70% 0 2%;
 }
+
