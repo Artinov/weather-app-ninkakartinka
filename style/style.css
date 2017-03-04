@@ -1,0 +1,22 @@
+body {
+	background: url(./images/city.jpg);
+	color: white;
+	font-size: 30px;
+	font-family: 'Josefin Sans', sans-serif;
+	background-repeat: no-repeat;
+}
+
+input{
+	background-color: black;
+	border-color: white;
+	border-radius: 10px;
+	font-size: 30px;
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 2% 70% 0 2%;
+	color: white;
+}
+
+.background{
+	background: rgba(45, 45, 45, 0.7);
+	margin: 0 70% 0 2%;
+}
